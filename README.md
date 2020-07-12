@@ -9,7 +9,7 @@ I am currently pursuing a doctorate in Political Science at American University 
 
 Before starting my doctorate, I obtained a Master of Arts in Latin American and Caribbean Studies at Florida International University, where I focused my studies on Political Science. I also obtained two Bachelor Degrees from FIU in 2013, in Political Science and International Relations. I graduated magna cum laude through the Honors College, was inducted Phi Beta Kappa, and obtained several other scholarly accolades. Extra-curricularly, I was the President of the FIU Debate Team and was a member of one of the top Model UN teams in the US (go Panthers!)
 
-####Peer Reviewed Journal Article (go to my [Google Scholar profile](https://scholar.google.com/citations?user=zmjKwAoAAAAJ&hl=en&oi=ao) for more publications)
+### Peer Reviewed Journal Article (go to my [Google Scholar profile](https://scholar.google.com/citations?user=zmjKwAoAAAAJ&hl=en&oi=ao) for more publications)
 
 * Suhay, E., **E.D. Bello-Pardo**, and B. Maurer. "The polarizing effects of online partisan criticism: Evidence from two experiments." [The International Journal of Press/Politics 23, no. 1 (2018): 95-115.](http://journals.sagepub.com/doi/abs/10.1177/1940161217740697)
 
