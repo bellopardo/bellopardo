@@ -9,9 +9,9 @@ I am currently pursuing a doctorate in Political Science at American University 
 
 Before starting my doctorate, I obtained a Master of Arts in Latin American and Caribbean Studies at Florida International University, where I focused my studies on Political Science. I also obtained two Bachelor Degrees from FIU in 2013, in Political Science and International Relations. I graduated magna cum laude through the Honors College, was inducted Phi Beta Kappa, and obtained several other scholarly accolades. Extra-curricularly, I was the President of the FIU Debate Team and was a member of one of the top Model UN teams in the US (go Panthers!)
 
-#### Peer Reviewed Journal Article (go to my [Google Scholar profile](https://scholar.google.com/citations?user=zmjKwAoAAAAJ&hl=en&oi=ao) for more publications)
+####Peer Reviewed Journal Article (go to my [Google Scholar profile](https://scholar.google.com/citations?user=zmjKwAoAAAAJ&hl=en&oi=ao) for more publications)
 
-* Suhay, Elizabeth, **Emily D. Bello-Pardo**, and Brianna Maurer. "The polarizing effects of online partisan criticism: Evidence from two experiments." [The International Journal of Press/Politics 23, no. 1 (2018): 95-115.](http://journals.sagepub.com/doi/abs/10.1177/1940161217740697)
+* Suhay, E., **E.D. Bello-Pardo**, and B. Maurer. "The polarizing effects of online partisan criticism: Evidence from two experiments." [The International Journal of Press/Politics 23, no. 1 (2018): 95-115.](http://journals.sagepub.com/doi/abs/10.1177/1940161217740697)
 
 
 
@@ -37,5 +37,5 @@ Before starting my doctorate, I obtained a Master of Arts in Latin American and 
 
 ### Florida International University
 
-* Boidi, Maria Fernanda, Jose Miguel Cruz, Rosario Queirolo, and **Emily D.  Bello-Pardo**, ["Marijuana Legalization in Uruguay and Beyond"](https://lacc.fiu.edu/events/2015/marijuana-legalization-in-uruguay-and-beyond/14561_sipa_marijuana-research_report2-1.pdf), Florida International University Latin American and Caribbean Center (2015)
+* Boidi, M.F., J.M. Cruz, R. Queirolo, and **E.D.  Bello-Pardo**, ["Marijuana Legalization in Uruguay and Beyond"](https://lacc.fiu.edu/events/2015/marijuana-legalization-in-uruguay-and-beyond/14561_sipa_marijuana-research_report2-1.pdf), Florida International University Latin American and Caribbean Center (2015)
 
