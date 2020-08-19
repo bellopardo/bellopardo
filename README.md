@@ -25,7 +25,7 @@ Before starting my doctorate, I obtained a Master of Arts in Latin American and 
 
 * **Bello-Pardo, E.D.**, M. Nayak, J.L. Ray, [Americans support police reform, even in the reddest states (August, 2020)](https://medium.com/@YouGovBlue/americans-support-police-reform-even-in-the-reddest-states-455b6c794e54)
 
-* A. Mangan, M. Painter, E. Shell (Data for Progress) and **E.D. Bello-Pardo**, M. Nayak, J.L. Ray, M. White (YouGov Blue),[Memo: Voters Support the Biden-Sanders Task Force Recommendations](https://filesforprogress.org/memos/Biden-Sanders-Unity-Task-Force.pdf)
+* A. Mangan, M. Painter, E. Shell (Data for Progress) and **E.D. Bello-Pardo**, M. Nayak, J.L. Ray, M. White (YouGov Blue), [Polling Memo: Voters Support the Biden-Sanders Task Force Recommendations (July, 2020)](https://filesforprogress.org/memos/Biden-Sanders-Unity-Task-Force.pdf)
 
 * **Bello-Pardo, E.D.**, M. Nayak, J.L. Ray, [The partisan gulf in coronavirus concern is shrinking -- Republicans and Independents have become increasingly worried about the pandemic in the past week (March, 2020)](https://medium.com/@YouGovBlue/the-partisan-gulf-in-coronavirus-concern-is-shrinking-d49d3e27cf7a)
 
