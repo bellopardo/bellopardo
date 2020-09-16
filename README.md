@@ -15,7 +15,7 @@ Before starting my doctorate, I obtained a Master of Arts in Latin American and 
 
 ### Under Review & Working Papers
 
-* "The Politics of Social Media Images: Potentials and Biases of Image Recognition Algorithms for Studying Congressional Behavior", with C. Schwemmer, C. Knight, J. Lockhart, S. Oklobdzija, and M. Schoonvelde (Revise & Resubmit).
+* Schwemmer, C., Knight, C., **E.D. Bello-Pardo**, S. Oklobdzija, M. Schoonvelde, and J.W. Lockhart. "Diagnosing Gender Bias in Image Recognition Systems" (Accepted for publication).
 
 * "Medium Is The Message? Elite Political Communication In The Age Of Multimedia Online Platforms" with T. Law, N. Gallagher, L. Fesler, and I. Pozzana. [Presentation at the 2020 Conference on Computational Sociology at Stanford University.](https://stanford.app.box.com/s/prhxixwxt8yg0d3j5x4gw9b970nam73a).
 
@@ -23,15 +23,15 @@ Before starting my doctorate, I obtained a Master of Arts in Latin American and 
 
 ### Senior Political Analyst, YouGov Blue
 
-* **Bello-Pardo, E.D.**, M. Nayak, J.L. Ray, [Americans support police reform, even in the reddest states (August, 2020)](https://medium.com/@YouGovBlue/americans-support-police-reform-even-in-the-reddest-states-455b6c794e54)
+* **Bello-Pardo, E.D.**, M. Nayak, and J.L. Ray, [Americans support police reform, even in the reddest states (August, 2020)](https://medium.com/@YouGovBlue/americans-support-police-reform-even-in-the-reddest-states-455b6c794e54)
 
-* A. Mangan, M. Painter, E. Shell (Data for Progress) and **E.D. Bello-Pardo**, M. Nayak, J.L. Ray, M. White (YouGov Blue), [Polling Memo: Voters Support the Biden-Sanders Task Force Recommendations (July, 2020)](https://filesforprogress.org/memos/Biden-Sanders-Unity-Task-Force.pdf)
+* A. Mangan, M. Painter, E. Shell (Data for Progress), **E.D. Bello-Pardo**, M. Nayak, J.L. Ray, and M. White (YouGov Blue), [Polling Memo: Voters Support the Biden-Sanders Task Force Recommendations (July, 2020)](https://filesforprogress.org/memos/Biden-Sanders-Unity-Task-Force.pdf)
 
-* **Bello-Pardo, E.D.**, M. Nayak, J.L. Ray, [The partisan gulf in coronavirus concern is shrinking -- Republicans and Independents have become increasingly worried about the pandemic in the past week (March, 2020)](https://medium.com/@YouGovBlue/the-partisan-gulf-in-coronavirus-concern-is-shrinking-d49d3e27cf7a)
+* **Bello-Pardo, E.D.**, M. Nayak, and J.L. Ray, [The partisan gulf in coronavirus concern is shrinking -- Republicans and Independents have become increasingly worried about the pandemic in the past week (March, 2020)](https://medium.com/@YouGovBlue/the-partisan-gulf-in-coronavirus-concern-is-shrinking-d49d3e27cf7a)
 
-* **Bello-Pardo, E.D.**, M. Nayak, J.L. Ray, [New coronavirus polling shows Americans are responding to the threat unevenly -- American voters are treating the pandemic like a partisan issue (March, 2020)](https://medium.com/@YouGovBlue/new-coronavirus-polling-shows-americans-are-responding-to-the-threat-unevenly-641026301516)
+* **Bello-Pardo, E.D.**, M. Nayak, and J.L. Ray, [New coronavirus polling shows Americans are responding to the threat unevenly -- American voters are treating the pandemic like a partisan issue (March, 2020)](https://medium.com/@YouGovBlue/new-coronavirus-polling-shows-americans-are-responding-to-the-threat-unevenly-641026301516)
 
-* McElwee, S. (Data for Progress), **E.D. Bello-Pardo** (YouGov Blue), [Polling memo: Voters support more government regulation of social media companies (December, 2019)](https://www.dataforprogress.org/memos/voters-support-more-regulation-of-social-media-companies)
+* McElwee, S. (Data for Progress), and **E.D. Bello-Pardo** (YouGov Blue), [Polling memo: Voters support more government regulation of social media companies (December, 2019)](https://www.dataforprogress.org/memos/voters-support-more-regulation-of-social-media-companies)
 
 * NoiseCat, J., S. McElwee, **E.D. Bello-Pardo**, J.L. Ray, A. Stollwerk, and M.H. White (Data for Progress and YouGov Blue), [Polling memo: Polling on The Green New Deal in Battleground Districts (September, 2019)](http://filesforprogress.org/memos/gnd-battleground.pdf)
 
