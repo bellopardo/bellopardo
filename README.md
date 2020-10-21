@@ -4,18 +4,18 @@
 I am a computational social scientist who is passionate about developing actionable research insights from rigorous quantitative data analysis and computational social science. Read more about what I'm up to here!
 
 
-# Academic 
-I am currently pursuing a doctorate in Political Science at American University in Washington, D.C. I study both American and Comparative Politics, and am more specifically interested in public opinion, political communication, and survey methodology. My dissertation studies the effect of online communication on political attitudes, focusing on both textual and visual misinformation. I carry out this research within the American context, but I am also intersted in this topic in a comparative arena. 
+# Academic & Other Pursuits
+I am currently a doctoral candidate in Political Science at American University in Washington, D.C. I study both American and Comparative Politics, and am more specifically interested in public opinion, political communication, and methodology. My dissertation studies the effect of online communication on political attitudes, focusing on both textual and visual misinformation. I carry out this research within the American context, but I am also intersted in this topic in a comparative arena. 
 
-Before starting my doctorate, I obtained a Master of Arts in Latin American and Caribbean Studies at Florida International University, where I focused my studies on Political Science. I also obtained two Bachelor Degrees from FIU in 2013, in Political Science and International Relations. I graduated magna cum laude through the Honors College, was inducted Phi Beta Kappa, and obtained several other scholarly accolades. Extra-curricularly, I was the President of the FIU Debate Team and was a member of one of the top Model UN teams in the US (go Panthers!)
+Professionally, I am a Senior Political Analyst at YouGov. I previously worked at Analyst Institute and was a [2017 Google NewsLab Fellow at Pew Research Center's Journalism Project](https://medium.com/google-news-lab/introducing-our-2017-us-news-lab-fellows-d804b7012df2). Before starting my doctorate, I obtained a Master of Arts in Latin American and Caribbean Studies and two Bachelor degreees -- in Political Science and International Relations -- at Florida International University. I graduated magna cum laude through the Honors College, was inducted Phi Beta Kappa, and obtained several other scholarly accolades in my undergraduate years. 
 
 ### Peer Reviewed Journal Article (go to my [Google Scholar profile](https://scholar.google.com/citations?user=zmjKwAoAAAAJ&hl=en&oi=ao) for more publications)
+
+* Schwemmer, C., Knight, C., **E.D. Bello-Pardo**, S. Oklobdzija, M. Schoonvelde, and J.W. Lockhart. "Diagnosing Gender Bias in Image Recognition Systems" (Forthcoming in *Socius*).
 
 * Suhay, E., **E.D. Bello-Pardo**, and B. Maurer. "The polarizing effects of online partisan criticism: Evidence from two experiments." [The International Journal of Press/Politics 23, no. 1 (2018): 95-115.](http://journals.sagepub.com/doi/abs/10.1177/1940161217740697)
 
 ### Under Review & Working Papers
-
-* Schwemmer, C., Knight, C., **E.D. Bello-Pardo**, S. Oklobdzija, M. Schoonvelde, and J.W. Lockhart. "Diagnosing Gender Bias in Image Recognition Systems" (Accepted for publication).
 
 * "Medium Is The Message? Elite Political Communication In The Age Of Multimedia Online Platforms" with T. Law, N. Gallagher, L. Fesler, and I. Pozzana. [Presentation at the 2020 Conference on Computational Sociology at Stanford University.](https://stanford.app.box.com/s/prhxixwxt8yg0d3j5x4gw9b970nam73a).
 
