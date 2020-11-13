@@ -11,7 +11,7 @@ Professionally, I am a Senior Political Analyst at YouGov. I previously worked a
 
 ### Peer Reviewed Journal Article (go to my [Google Scholar profile](https://scholar.google.com/citations?user=zmjKwAoAAAAJ&hl=en&oi=ao) for more publications)
 
-* Schwemmer, C., Knight, C., **E.D. Bello-Pardo**, S. Oklobdzija, M. Schoonvelde, and J.W. Lockhart. "Diagnosing Gender Bias in Image Recognition Systems" (Forthcoming in *Socius*).
+* Schwemmer, C., Knight, C., **E.D. Bello-Pardo**, S. Oklobdzija, M. Schoonvelde, and J.W. Lockhart. "Diagnosing Gender Bias in Image Recognition Systems". [*Socius* (2020)](https://journals.sagepub.com/doi/pdf/10.1177/2378023120967171). 
 
 * Suhay, E., **E.D. Bello-Pardo**, and B. Maurer. "The polarizing effects of online partisan criticism: Evidence from two experiments." [The International Journal of Press/Politics 23, no. 1 (2018): 95-115.](http://journals.sagepub.com/doi/abs/10.1177/1940161217740697)
 
