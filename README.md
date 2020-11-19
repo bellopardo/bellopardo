@@ -1,13 +1,13 @@
 # Hi there 👋
 
 
-I am a computational social scientist who is passionate about developing actionable research insights from rigorous quantitative data analysis and computational social science. Read more about what I'm up to here!
+I am a computational social scientist who is passionate about developing actionable research insights from rigorous quantitative analysis. Read more about what I'm up to here!
 
 
 # Academic & Other Pursuits
-I am currently a doctoral candidate in Political Science at American University in Washington, D.C. I study both American and Comparative Politics, and am more specifically interested in public opinion, political communication, and methodology. My dissertation studies the effect of online communication on political attitudes, focusing on both textual and visual misinformation. I carry out this research within the American context, but I am also intersted in this topic in a comparative arena. 
+I am currently a doctoral candidate in Political Science at American University in Washington, D.C. I study both American and Comparative Politics, but I am more specifically interested in public opinion, political communication, and methodology. My dissertation studies the effect of online misinformation on political attitudes, focusing on both textual and visual misinformation. I carry out this research within the American context, but I am also intersted in this topic in a comparative arena. 
 
-Professionally, I am a Senior Political Analyst at YouGov. I previously worked at Analyst Institute and was a [2017 Google NewsLab Fellow at Pew Research Center's Journalism Project](https://medium.com/google-news-lab/introducing-our-2017-us-news-lab-fellows-d804b7012df2). Before starting my doctorate, I obtained a Master of Arts in Latin American and Caribbean Studies and two Bachelor degreees -- in Political Science and International Relations -- at Florida International University. I graduated magna cum laude through the Honors College, was inducted Phi Beta Kappa, and obtained several other scholarly accolades in my undergraduate years. 
+Professionally, I am a Senior Political Analyst at YouGov. I previously worked at Analyst Institute and was a [2017 Google NewsLab Fellow at Pew Research Center's Journalism Project](https://medium.com/google-news-lab/introducing-our-2017-us-news-lab-fellows-d804b7012df2). Before starting my doctorate, I obtained a Master of Arts in Latin American and Caribbean Studies and two Bachelor degreees -- in Political Science and International Relations -- at Florida International University. I graduated magna cum laude through the Honors College, was inducted Phi Beta Kappa, and obtained several other accolades in my undergraduate years. 
 
 ### Peer Reviewed Journal Article (go to my [Google Scholar profile](https://scholar.google.com/citations?user=zmjKwAoAAAAJ&hl=en&oi=ao) for more publications)
 
