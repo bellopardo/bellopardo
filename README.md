@@ -4,4 +4,4 @@ I am a computational social scientist who is passionate about developing actiona
 
 Professionally, I am a Senior Political Analyst at YouGov. I previously worked at Analyst Institute and was a [2017 Google NewsLab Fellow at Pew Research Center's Journalism Project](https://medium.com/google-news-lab/introducing-our-2017-us-news-lab-fellows-d804b7012df2). Before starting my doctorate, I obtained a Master of Arts in Latin American and Caribbean Studies and two Bachelor degreees -- in Political Science and International Relations -- from Florida International University. I graduated magna cum laude through the Honors College, was inducted Phi Beta Kappa, and obtained several other accolades in my undergraduate years.
 
-Check out [https://bellopardo.github.io/] for more about my scholarly and professional pursuits.
+Check out https://bellopardo.github.io/ for more about my scholarly and professional pursuits.
